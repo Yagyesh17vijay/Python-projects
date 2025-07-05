@@ -12,8 +12,8 @@ EMAIL_CONFIG = {
     'imap_port': 993,
     'smtp_server': 'smtp.gmail.com',
     'smtp_port': 587,
-    'email': 'yagyeshvijay1071@gmail.com',          # Your Gmail address
-    'password': 'ufcznslteiphgprn',          # Your app password (not regular password)
+    'email': 'example.1@gmail.com',          # Your Gmail address
+    'password': 'app password',          # Your app password (not regular password)
     'check_interval': 300,                    # Check every 5 minutes (seconds)
     'auto_reply_subject': 'Auto-reply: Thank you for your email',
     'auto_reply_body': '''Hello,
