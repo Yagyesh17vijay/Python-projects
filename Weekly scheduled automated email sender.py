@@ -7,8 +7,8 @@ from datetime import datetime
 
 def send_email():
     # Email configuration
-    sender_email = "yagyeshvijay1071@gmail.com"  # Replace with your email
-    sender_password = "ufcznslteiphgprn"      # Replace with your password or app password
+    sender_email = "example.1@gmail.com"  # Replace with your email
+    sender_password = "app password"      # Replace with your password or app password
     receiver_email = "yagyeshvijay017@gmail.com"  # Replace with recipient email
     subject = "Weekly Update - " + datetime.now().strftime("%Y-%m-%d")
     
